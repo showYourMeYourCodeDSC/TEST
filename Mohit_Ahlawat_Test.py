@@ -202,7 +202,7 @@ for i in range(0,n):
 
             print(count,end='')
 
-            count++1
+            count+=1
 
     
 
@@ -304,10 +304,9 @@ Python:5
 3?:1
 Read:1
 Python:5
-
-#################################################################################end.
 2:2
 or:2
 Python:5
 3:1
 
+###FINISHHH
