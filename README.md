@@ -2,7 +2,7 @@
 
 Hi everyone 
 
-test is in the TEST file open it and solve them (P.S. Hints bhi hain usmei)
+test is in the AssignmentPython file open it and solve them (P.S. Hints bhi hain usmei)
 1. Try all questions on your own
 2. DEADLINE IS STRICT              Before - Monday, 6am
 
