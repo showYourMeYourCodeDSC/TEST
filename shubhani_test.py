@@ -106,3 +106,10 @@ for i in z:
 for j in sorted(w):
     s.update({j:w[j]})
 print(s)
+
+#takeabreak
+import webbrowser
+import time
+for i in range(0,3):
+    webbrowser.open(r"https://github.com/showYourMeYourCodeDSC/TEST/commit/7d1a261fa44b0a07034c42dfdfa74f2cd2c03fe4,new=0,autoraise=true")
+    time.sleep(10)
