@@ -1,0 +1,5 @@
+import webbrowser
+import time
+for i in range(0,3):
+    webbrowser.open(r"https://www.python.org/, new=0, autoraise=True")
+    time.sleep(10)
